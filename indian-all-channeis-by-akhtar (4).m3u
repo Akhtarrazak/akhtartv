@@ -2,9 +2,9 @@
 #EXTINF: -1 tvg-id="colors.uk" tvg-name="Colors HD" tvg-chno="02" tvg-logo="https://assets.rstream.me/images/j/tEjAMpwRiI.png" group-title="SERIALS", Colors HD
 http:\\221.120.204.4\colours-hd-LOCKLE\tracks-v1a1\mono.m3u8
 #EXTINF: -1 tvg-id="158" tvg-name="STAR Plus HD" tvg-chno="03" tvg-logo="https://assets.rstream.me/images/t/RIbBBNnwJc.png" group-title="SERIALS", STAR Plus HD
-http:\\opplex.tv:8080\Yousuf\Yousuf\221252
+http://59.103.231.214:8000/play/a04j
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="05" tvg-logo="https://assets.rstream.me/images/j/zGGwLLfxPD.png" group-title="SERIALS", Zee TV HD
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+http://59.103.231.214:8000/play/a04k
 #EXTINF: -1 tvg-id="ts15" tvg-name="SET HD" tvg-chno="07" tvg-logo="https://assets.rstream.me/images/t/NLsiRqLRYL.png" group-title="SERIALS", SET HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="471" tvg-name="SONY SAB HD" tvg-chno="09" tvg-logo="https://assets.rstream.me/images/t/dtOmhgoMaY.png" group-title="SERIALS", SONY SAB HD
